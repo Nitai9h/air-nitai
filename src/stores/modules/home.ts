@@ -12,7 +12,7 @@ type AcMode = "clod" | "hot";
 const useHomeStore = defineStore("home", {
   state: () => ({
     authorInfo: {
-      author: "Lucky薄荷&Nitai_",
+      author: "便携小空调",
       link: "http://nitai.us.kg/",
       title: "Lucky薄荷&Nitai_ - 便携小空调",
     },
