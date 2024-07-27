@@ -12,9 +12,9 @@ type AcMode = "clod" | "hot";
 const useHomeStore = defineStore("home", {
   state: () => ({
     authorInfo: {
-      author: "安知鱼",
-      link: "http://anzhiy.cn/",
-      title: "安知鱼 - 便携小空调",
+      author: "Lucky薄荷&Nitai_",
+      link: "http://nitai.us.kg/",
+      title: "Lucky薄荷&Nitai_ - 便携小空调",
     },
     // 空调温度
     temperature: 26,
